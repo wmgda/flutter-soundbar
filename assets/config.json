@@ -1,0 +1,29 @@
+{
+  "sounds": [
+    {
+      "file": "bagno.mp3",
+      "label": "Bagno",
+      "isVisible": true
+    },
+    {
+      "file": "jak-pan-joakim.mp3",
+      "label": "Jak Pan Joakim powiedział?",
+      "isVisible": true
+    },
+    {
+      "file": "kto-to.mp3",
+      "label": "Kto to rucha?",
+      "isVisible": false
+    },
+    {
+      "file": "szymon.mp3",
+      "label": "Szymonie",
+      "isVisible": true
+    },
+    {
+      "file": "wojtek.mp3",
+      "label": "Woooooooojtek",
+      "isVisible": true
+    }
+  ]
+}
